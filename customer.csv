@@ -1,0 +1,407 @@
+ticket,issue_date,issue_time,form,method,issue,caller_ID,call_message_type,bNum,city,state,zip,location
+1374777,,,Internet,DSL,Speed,None,,None,Barry,TX,75102,"TX 75102-4535
+(32.086329, -96.625888)"
+1374778,,,Accessibility,,,None,,None,Robertsdale,AL,36567,"AL 36567
+(30.606646, -87.602965)"
+1374780,,,TV,Cable,Billing,None,,None,Kittanning,PA,16021,"PA 16021
+(41.07, -79.99)"
+1374781,,,Phone,Wireless (cell phone/other mobile device),Availability (including rural call completion),None,,None,Taos,NM,87571,"NM 87571
+(36.389722, -105.539305)"
+1374782,,,Internet,Cable,Speed,None,,None,Jacksonville,AR,72076,"AR 72076
+(34.893224, -92.132428)"
+1374783,,,Internet,Cable,Billing,None,,None,American Canyon,CA,94503,"CA 94503
+(38.178317, -122.240598)"
+1374785,,,Internet,Wireless,Open Internet/Net Neutrality,None,,None,Boardman,OH,44512,"OH 44512
+(41.029452, -80.66571)"
+1374786,,,Internet,Cable,Equipment,None,,None,Lombard,IL,60148,"IL 60148
+(41.873394, -88.016484)"
+1374788,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Saint Cloud,FL,34772,"FL 34772
+(28.18766, -81.280584)"
+1374790,,,Internet,Cable,Open Internet/Net Neutrality,None,,None,Hillsboro,OR,97123,"OR 97123
+(45.467493, -122.968778)"
+1374792,,,Phone,Wireless (cell phone/other mobile device),Privacy,None,,None,Albuquerque,NM,87113,"NM 87113
+(35.180059, -106.589236)"
+1374794,,,TV,Satellite,Billing,None,,None,Nevada City,CA,95959,"CA 95959
+(39.316417, -120.953153)"
+1374796,,,TV,Satellite,Billing,,,,Olympia,WA,98501,"WA 98501
+(46.998873, -122.874042)"
+1374797,,,Internet,Wireless,Availability,None,,None,Topock,AZ,86436,"AZ 86436
+(34.780308, -114.474245)"
+1374799,12/31/2016,5:00 p.m.,TV,,Loud Commercials,None,,None,North Hollywood,CA,91605,"CA 91605
+(34.207788, -118.401658)"
+1374801,,,Phone,Wireless (cell phone/other mobile device),Privacy,None,,None,Brea,CA,92821,"CA 92821-5001
+(33.920163, -117.898243)"
+1374804,,,Internet,Satellite,Interference,None,,None,Deer Park,WA,99006,"WA 99006
+(47.949511, -117.481417)"
+1374806,,,Internet,Cable,Speed,None,,None,Laingsburg,MI,48848,"MI 48848
+(42.882961, -84.357025)"
+1374807,12/31/2016,8:28 PM,Radio,Amateur Radio,Indecency,,,,Austell,GA,30106,"GA 30106
+(33.835698, -84.624251)"
+1374809,,,TV,Satellite,Billing,None,,None,San Juan Capistrano,CA,92675,"CA 92675
+(33.520913, -117.613242)"
+1374811,,,Radio,Amateur Radio,Interference,None,,None,New Port Richey,FL,34652,"FL 34652
+(28.235448, -82.730207)"
+1374813,,,Internet,Cable,Open Internet/Net Neutrality,None,,None,Valparaiso,IN,46385,"IN 46385
+(41.47774, -87.118628)"
+1374814,,,Internet,Cable,Speed,None,,None,Tampa,FL,33606,"FL 33606
+(27.934935, -82.467956)"
+1374815,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Apache Junction,AZ,85120,"AZ 85120
+(33.415039, -111.567728)"
+1374816,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Minneapolis,MN,55407,"MN 55407
+(44.936152, -93.254012)"
+1374818,12/31/2016,7:50 PM,TV,Satellite,Indecency,None,,None,Boerne,TX,78006,"TX 78006
+(29.839947, -98.69979)"
+1374821,,,Internet,DSL,Billing,None,,None,Atlanta,GA,30311,"GA 30311
+(33.723548, -84.474401)"
+1374822,,,TV,Broadcast,Open Internet/Net Neutrality,None,,None,Glendale,MO,63122,"MO 63122-3104
+(38.598802, -90.384217)"
+1374823,,,Internet,Wireless,Interference,None,,None,Humble,TX,77338,"TX 77338
+(30.008078, -95.291133)"
+1374824,12/29/2016,,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,None,Prerecorded Voice,None,Wake Village,TX,75501,"TX 75501
+(33.389174, -94.123369)"
+1374826,,,Internet,Cable,Open Internet/Net Neutrality,None,,None,Manteca,CA,95337,"CA 95337
+(37.766311, -121.233996)"
+1374828,,,Internet,Cable,Open Internet/Net Neutrality,None,,None,Everett,WA,98204,"WA 98204
+(47.899424, -122.255648)"
+1374831,,,Internet,Cable,Billing,None,,None,Mobile,AL,36695,"AL 36695
+(30.642121, -88.24971)"
+1374834,,,TV,Fiber,Availability,None,,None,Camas,WA,98607,"WA 98607
+(45.620943, -122.408498)"
+1374835,,,Internet,Wireless,Billing,None,,None,Post,TX,79356,"TX 79356
+(33.221286, -101.413937)"
+1374836,,,Internet,Cable,Billing,,,,Whittier,CA,90605,"CA 90605
+(33.946845, -118.02893)"
+1374838,,,Phone,Wireless (cell phone/other mobile device),Billing,,,,Richardson,TX,75081,"TX 75081
+(32.948007, -96.710123)"
+1374839,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Charlotte,NC,28215,"NC 28215
+(35.247056, -80.70674)"
+1374843,,,Internet,Cable,Billing,None,,None,Spring Grove,IL,60081,"IL 60081
+(42.445788, -88.221747)"
+1374844,12/31/2016,9:48 P.M.,TV,,Loud Commercials,None,,None,Atlanta,GA,30328,"GA 30328
+(33.932662, -84.381118)"
+1374845,,,Internet,Cable,Speed,None,,None,Sierra Madre,CA,91024,"CA 91024
+(34.166303, -118.05074)"
+1374846,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Delmar,MD,21875,"MD 21875
+(38.445206, -75.558924)"
+1374847,,,TV,Cable,Billing,,,,Noblesville,IN,46062,"IN 46062
+(40.056176, -86.058884)"
+1374850,,,Internet,Cable,Billing,None,,None,Miami,FL,33147,"FL 33147
+(25.85085, -80.23763)"
+1374852,12/31/2016,,Phone,Wired,Unwanted Calls,270-967-9154,Prerecorded Voice,270-967-9147,Campbellsville,KY,42718,"KY 42718
+(37.378164, -85.370994)"
+1374853,,,TV,Satellite,Billing,None,,None,Bethlehem,PA,18017,"PA 18017
+(40.655623, -75.379071)"
+1374855,12/31/2016,10:22 PM,TV,,Loud Commercials,None,,None,Richmond,VA,23219,"VA 23219
+(37.541372, -77.435154)"
+1374857,12/31/2016,5:55 PM,Phone,Wired,Unwanted Calls,512-459-9125,Abandoned Calls,512-459-9125,Dunstable,MA,1827,"MA 01827
+(42.674567, -71.498022)"
+1374860,,,TV,Satellite,Billing,,,,Cat Spring,TX,78933,"TX 78933
+(29.788111, -96.367458)"
+1374861,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374862,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374863,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374866,12/31/2016,11:00 PM,TV,,Loud Commercials,None,,None,Langhorne,PA,19053,"PA 19053
+(40.151845, -74.981706)"
+1374868,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374870,,,Internet,Cable,Equipment,None,,None,Boulder,CO,80301,"CO 80301
+(40.04714, -105.214301)"
+1374872,,,Internet,Cable,Billing,None,,None,Brooklyn,NY,11232,"NY 11232
+(40.655247, -74.000591)"
+1374875,,,Phone,Wireless (cell phone/other mobile device),Availability (including rural call completion),None,,None,Pojoaque,NM,87501,"NM 87501
+(35.718472, -105.917396)"
+1374876,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Slidell,LA,70458,"LA 70458
+(30.271445, -89.774625)"
+1374879,12/31/2016,11:25 PM,Accessibility,,Closed Captioning over the Internet,None,,None,Carrollton,GA,30116,"GA 30116
+(33.566417, -85.014933)"
+1374881,,,Internet,DSL,Billing,,,,San Fernando,CA,91340,"CA 91340
+(34.285891, -118.437069)"
+1374883,,,Internet,DSL,Billing,None,,None,Eddyville,KY,42038,"KY 42038
+(37.044969, -88.029479)"
+1374885,12/31/2016,8:45 PM,TV,Cable,Indecency,None,,None,Marina Del Rey,CA,90292,"CA 90292
+(33.979295, -118.450304)"
+1374886,,,Phone,Wired,Billing,None,,None,San Fernando,CA,91340,"CA 91340
+(34.285891, -118.437069)"
+1374889,,,Internet,Cable,Speed,,,,Belvidere,IL,61008,"IL 61008
+(42.256409, -88.849637)"
+1374890,,,Internet,Cable,Billing,None,,None,Belvidere,IL,61008,"IL 61008
+(42.256409, -88.849637)"
+1374892,,,TV,Cable,Availability,None,,None,Orlando,FL,32839,"FL 32839
+(28.488396, -81.409397)"
+1374895,12/31/2016,11:38 PM,Accessibility,,Closed Captioning on TV,None,,None,Bridgeville,PA,15017,"PA 15017
+(40.346008, -80.122701)"
+1374897,12/31/2016,9:09 PM,TV,Satellite,Indecency,None,,None,Dallas,GA,30132,"GA 30132
+(33.979327, -84.836757)"
+1374900,12/31/2016,10:00 PM,TV,,Loud Commercials,None,,None,Oakland,CA,94618,"CA 94618
+(37.844532, -122.238793)"
+1374901,,,TV,Satellite,Availability,,,,Roseville,CA,95747,"CA 95747
+(38.772036, -121.346356)"
+1374902,,,Phone,Wireless (cell phone/other mobile device),Privacy,None,,None,Murieta,CA,92562,"CA 92562
+(33.559495, -117.246289)"
+1374904,,,Internet,Cable,Open Internet/Net Neutrality,None,,None,Kent,WA,98032,"WA 98032
+(47.390601, -122.261321)"
+1374909,,,Internet,DSL,Privacy,None,,None,Castrovillle,CA,95012,"CA 95012
+(36.776872, -121.743198)"
+1374911,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Evanston,IL,60201,"IL 60201
+(42.056732, -87.699329)"
+1374913,,,TV,Satellite,Availability,None,,None,Auburn,CA,95603,"CA 95603
+(38.912397, -121.083667)"
+1374915,,,TV,Satellite,Billing,,,,Belfair,WA,98312,"WA 98312
+(47.57271, -122.724682)"
+1374917,,,Internet,Cable,Open Internet/Net Neutrality,None,,None,Bellevue,WA,98004,"WA 98004
+(47.619011, -122.203169)"
+1374918,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374919,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Atlanta,GA,30318,"GA 30318
+(33.790275, -84.444382)"
+1374921,,,Phone,Wireless (cell phone/other mobile device),Availability (including rural call completion),None,,None,Muncie,IN,47304,"IN 47304
+(40.220157, -85.444557)"
+1374923,,,Internet,Cable,Open Internet/Net Neutrality,None,,None,West Palm Beach,FL,33409,"FL 33409
+(26.715875, -80.096403)"
+1374927,,,TV,Satellite,Availability,None,,None,Cocoa,FL,32927,"FL 32927
+(28.469214, -80.800728)"
+1374929,,,TV,Cable,Equipment,None,,None,Lutz,FL,33549,"FL 33549
+(28.136668, -82.447413)"
+1374930,01-01-2017,,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,408-610-4900,Prerecorded Voice,None,Columbia,SC,29211,"SC 29211
+(34.0, -81.03)"
+1374932,,,TV,Cable,Availability,None,,None,Baltimore,MD,21209,"MD 21209
+(39.370799, -76.668714)"
+1374934,01-01-2017,7:42 AM,TV,Satellite,Indecency,None,,None,Monticello,KY,42633,"KY 42633
+(36.819161, -84.815759)"
+1374935,,,TV,Satellite,Availability,None,,None,Cartersville,GA,30121,"GA 30121
+(34.207134, -84.78247)"
+1374937,,,Phone,Wireless (cell phone/other mobile device),Privacy,None,,None,Tampa,FL,33618,"FL 33618
+(28.071373, -82.498872)"
+1374938,,,TV,Satellite,Availability,None,,None,New Castle,PA,16101,"PA 16101
+(40.988472, -80.311577)"
+1374942,,,Internet,Wireless,Availability,None,,None,Taylorsville,KY,40071,"KY 40071
+(38.050483, -85.364643)"
+1374944,,,TV,Satellite,Availability,None,,None,Canton,GA,30115,"GA 30115
+(34.207299, -84.412635)"
+1374947,12/28/2016,,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,575-339-9065,Abandoned Calls,575-339-9065,Brooklyn,NY,11217,"NY 11217
+(40.68254, -73.979472)"
+1374948,,,TV,Satellite,Availability,None,,None,Allyn,WA,98524,"WA 98524
+(47.367328, -122.846767)"
+1374949,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374950,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374951,,,Phone,Wired,Privacy,None,,None,Coweta,OK,74429,"OK 74429
+(35.9528, -95.632954)"
+1374953,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374954,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374955,,,Phone,Wired,Privacy,None,,None,Coweta,OK,74429,"OK 74429
+(35.9528, -95.632954)"
+1374956,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374958,,,Internet,Wireless,Availability,None,,None,Lake Park,FL,33403,"FL 33403
+(26.803263, -80.074489)"
+1374959,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374960,,,TV,Satellite,Availability,None,,None,Duluth,GA,30096,"GA 30096
+(33.976877, -84.150083)"
+1374961,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374962,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374963,,,TV,Satellite,Availability,None,,None,Dracut,MA,1826,"MA 01826
+(42.680461, -71.309883)"
+1374965,,,TV,Fiber,Availability,None,,None,Boone,NC,28607,"NC 28607
+(36.213349, -81.654212)"
+1374966,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374967,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374969,,,Internet,Cable,Billing,None,,None,Thornton,CO,80602,"CO 80602
+(39.960108, -104.914866)"
+1374970,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374971,,,TV,Satellite,Availability,None,,None,Liberty,MO,64068,"MO 64068
+(39.252954, -94.412372)"
+1374972,,,TV,Satellite,Availability,None,,None,North Haverhill,NH,3774,"NH 03774
+(44.082932, -72.001724)"
+1374976,,,TV,Satellite,Availability,None,,None,Baltimore,MD,21229,"MD 21229
+(39.285146, -76.690796)"
+1374980,,,TV,Cable,Availability,None,,None,Belmont,NC,28012,"NC 28012
+(35.226993, -81.03977)"
+1374983,01-01-2017,,Phone,Internet (VOIP),Unwanted Calls,702-642-1486,Abandoned Calls,None,North Las Vegas,NV,89031,"NV 89031
+(36.259484, -115.171844)"
+1374985,,,TV,Satellite,Availability,None,,None,Lower Burrell,PA,15068,"PA 15068
+(40.566993, -79.724247)"
+1374987,,,Internet,Cable,Open Internet/Net Neutrality,None,,None,Lawrenceburg,IN,47025,"IN 47025
+(39.154102, -84.866085)"
+1374989,,,Phone,Wired,Interference (including signal jammers),None,,None,Jonesville,VA,24263,"VA 24263
+(36.676982, -83.154875)"
+1374991,,,TV,Cable,Availability,None,,None,Kissimmee,FL,34744,"FL 34744
+(28.304336, -81.352018)"
+1374993,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374994,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374996,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1374998,,,Radio,Broadcast,Interference,,,,Frederick,MD,21702,"MD 21702
+(39.461767, -77.448244)"
+1375000,01-01-2017,,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,845-204-6911,Abandoned Calls,None,Roper,NC,27970,"NC 27970
+(35.871349, -76.582297)"
+1375003,,,Internet,Wireless,Availability,None,,None,Smith River,CA,95567,"CA 95567-0122
+(41.942183, -124.1663)"
+1375005,,,TV,Satellite,Billing,None,,None,Derry,NH,3038,"NH 03038
+(42.887787, -71.290894)"
+1375007,,,Internet,Cable,Equipment,None,,None,Cedartown,GA,30125,"GA 30125
+(34.003429, -85.262109)"
+1375010,,,TV,Satellite,Availability,None,,None,Albuquerque,NM,87112,"NM 87112
+(35.101376, -106.519264)"
+1375014,,,TV,Cable,Equipment,None,,None,Plymouth,MA,2360,"MA 02360
+(41.886602, -70.62855)"
+1375015,,,Internet,Wireless,Speed,,,,Brooksville,FL,34601,"FL 34601
+(28.573132, -82.369041)"
+1375016,,,TV,Satellite,Availability,None,,None,Clermont,FL,34711,"FL 34711
+(28.529943, -81.739693)"
+1375019,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Brooklyn,NY,11214,"NY 11214
+(40.599583, -73.996455)"
+1375020,,,Internet,Cable,Billing,None,,None,Upper Saddle River,NJ,7458,"NJ 07458
+(41.048651, -74.097982)"
+1375022,,,TV,Satellite,Billing,,,,Lancaster,CA,93536,"CA 93536
+(34.74564, -118.356914)"
+1375024,,,TV,Satellite,Availability,None,,None,Flovilla,GA,30216,"GA 30216
+(33.246493, -83.888208)"
+1375026,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Clover,SC,29710,"SC 29710
+(35.106484, -81.193726)"
+1375030,,,TV,Satellite,Availability,None,,None,Rock Hill,SC,29730,"SC 29730
+(34.902043, -81.010065)"
+1375035,,,TV,Cable,Availability,None,,None,Jacksonville,FL,32258,"FL 32258
+(30.143049, -81.552189)"
+1375036,,,Internet,Cable,Equipment,None,,None,Alexandria,VA,22304,"VA 22304-4021
+(38.811077, -77.139484)"
+1375037,,,TV,Cable,Availability,None,,None,Morgantown,WV,26508,"WV 26508
+(39.607561, -79.901514)"
+1375038,,,TV,Satellite,Billing,,,,Sevierville,TN,37862,"TN 37862
+(35.791737, -83.59985)"
+1375043,01-01-2017,,Phone,Wireless (cell phone/other mobile device),Unwanted Calls,845-513-0512,Prerecorded Voice,None,Brooklyn,NY,11218,"NY 11218
+(40.643629, -73.976298)"
+1375044,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,New York,NY,10002,"NY 10002
+(40.715712, -73.987053)"
+1375045,,,TV,Satellite,Availability,None,,None,Yulee,FL,32097,"FL 32097
+(30.64073, -81.613429)"
+1375047,,,Internet,Cable,Billing,None,,None,Havertown,PA,19083,"PA 19083
+(39.977505, -75.31077)"
+1375049,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Lakewood,CA,90712,"CA 90712
+(33.850294, -118.146843)"
+1375051,,,Phone,Wireless (cell phone/other mobile device),Privacy,None,,None,Oakland,PA,15213,"PA 15213
+(40.443434, -79.955701)"
+1375053,,,Phone,Wireless (cell phone/other mobile device),Equipment,None,,None,San Francisco,CA,94117,"CA 94117
+(37.770274, -122.443224)"
+1375055,,,Internet,Cable,Billing,None,,None,Lacey,WA,98513,"WA 98513
+(47.002092, -122.751179)"
+1375057,,,Radio,,Interference,None,,None,Pleasanton,CA,94566,"CA 94566
+(37.659437, -121.867131)"
+1375059,,,TV,Satellite,Availability,None,,None,Orlando,FL,32824,"FL 32824
+(28.386921, -81.357284)"
+1375061,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Woodbury,MN,55125,"MN 55125
+(44.920588, -92.942565)"
+1375062,,,TV,Cable,Availability,,,,Mckee,KY,40447,"KY 40447
+(37.446485, -84.034762)"
+1375065,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,West Bloomfield,MI,48322,"MI 48322
+(42.541623, -83.382178)"
+1375066,,,Internet,Cable,Billing,None,,None,Houghton,MI,49931,"MI 49931
+(47.119029, -88.584022)"
+1375068,,,TV,Satellite,Availability,,,,Jackson,GA,30233,"GA 30233
+(33.291902, -83.977249)"
+1375069,,,Internet,Cable,Interference,None,,None,Longmont,CO,80503,"CO 80503
+(40.157538, -105.185328)"
+1375071,,,TV,Satellite,Availability,None,,None,Indian Harbor Bch,FL,32937,"FL 32937
+(28.173998, -80.599363)"
+1375072,,,TV,Cable,Availability,None,,None,Duluth,GA,30096,"GA 30096
+(33.976877, -84.150083)"
+1375073,,,TV,Satellite,Interference,None,,None,Shorewood,WI,53211,"WI 53211
+(43.08237, -87.884363)"
+1375075,,,Internet,Cable,Interference,None,,None,Naples,FL,34116,"FL 34116
+(26.185608, -81.708055)"
+1375077,,,TV,Satellite,Availability,None,,None,Uxbridge,MA,1569,"MA 01569
+(42.061776, -71.634285)"
+1375079,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Baltimore,MD,21224,"MD 21224
+(39.284486, -76.549062)"
+1375082,,,Internet,Cable,Speed,,,,Weymouth,MA,2188,"MA 02188
+(42.208442, -70.957606)"
+1375084,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Glenham,SD,57631,"SD 57631
+(45.577933, -100.251392)"
+1375085,,,TV,Satellite,Availability,None,,None,Murrysville,PA,15668,"PA 15668
+(40.454535, -79.677296)"
+1375086,,,TV,Cable,Availability,None,,None,Mansfield,MA,2048,"MA 02048
+(42.020106, -71.217512)"
+1375088,,,Internet,Cable,Availability,None,,None,Coldwater,MS,38618,"MS 38618
+(34.699941, -89.93008)"
+1375090,,,TV,Satellite,Equipment,,,,Algonquin,IL,60102,"IL 60102
+(42.161844, -88.309945)"
+1375091,,,Internet,Wireless,Interference,None,,None,Oakland,PA,15213,"PA 15213
+(40.443434, -79.955701)"
+1375092,,,Internet,Wireless,Interference,None,,None,Highland,CA,92346,"CA 92346
+(34.123358, -117.193375)"
+1375094,,,TV,Broadcast,Interference,None,,None,Maysville,MO,64469,"MO 64469
+(39.934053, -94.35524)"
+1375096,,,TV,Satellite,Availability,None,,None,Urbandale,IA,50323,"IA 50323
+(41.632009, -93.810514)"
+1375101,,,TV,Satellite,Availability,None,,None,Gibsonia,PA,15044,"PA 15044
+(40.635343, -79.955108)"
+1375104,01-01-2017,1:51 PM,TV,Cable,Indecency,None,,None,Charlotte,NC,28226,"NC 28226
+(35.107444, -80.81869)"
+1375107,,,Internet,Cable,Speed,None,,None,Fort Lauderdale,FL,33334,"FL 33334
+(26.183079, -80.134765)"
+1375109,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Brooklyn,NY,11229,"NY 11229
+(40.600494, -73.943351)"
+1375111,,,Internet,Cable,Billing,None,,None,Denver,CO,80206,"CO 80206
+(39.730238, -104.952049)"
+1375115,,,Phone,Wireless (cell phone/other mobile device),Privacy,,,,Flushing,NY,11354,"NY 11354
+(40.768432, -73.826093)"
+1375116,,,Phone,Wireless (cell phone/other mobile device),Privacy,,,,Flushing,NY,11354,"NY 11354
+(40.768432, -73.826093)"
+1375124,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Warrington,PA,18976,"PA 18976
+(40.245004, -75.139973)"
+1375125,01-01-2017,1:15 AM,TV,Cable,Indecency,None,,None,Cedar,MI,49621,"MI 49621
+(44.867589, -85.778033)"
+1375127,,,TV,Fiber,Equipment,None,,None,Shirley,MA,1464,"MA 01464
+(42.567038, -71.647299)"
+1375130,,,TV,Satellite,Availability,None,,None,Lynden,WA,98264,"WA 98264
+(48.945625, -122.455353)"
+1375133,,,TV,Satellite,Availability,None,,None,Tulsa,OK,74137,"OK 74137
+(36.021595, -95.928002)"
+1375134,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Roseville,MI,48066,"MI 48066
+(42.505372, -82.937275)"
+1375137,,,Phone,Internet (VOIP),Billing,None,,None,Ringgold,GA,30736,"GA 30736
+(34.912113, -85.143517)"
+1375139,,,Internet,Cable,Billing,None,,None,Chicago,IL,60707,"IL 60707
+(41.921777, -87.808283)"
+1375142,,,TV,Cable,Interference,,,,Fort Myers,FL,33912,"FL 33912
+(26.534587, -81.830098)"
+1375144,,,TV,Satellite,Availability,None,,None,Anacortes,WA,98221,"WA 98221
+(48.487079, -122.628418)"
+1375146,,,Phone,Wireless (cell phone/other mobile device),Billing,None,,None,Encino,CA,1316,"CA 01316
+(18.113421, -66.163661)"
+1375149,,,Internet,Cable,Speed,None,,None,Davenport,IA,52804,"IA 52804
+(41.534136, -90.649099)"
+1375153,,,TV,Satellite,Availability,None,,None,Woodward,OK,73801,"OK 73801
+(36.417776, -99.413565)"
+1375156,,,Phone,Wireless (cell phone/other mobile device),Interference (including signal jammers),None,,None,Oakland,PA,15213,"PA 15213
+(40.443434, -79.955701)"
+1375158,,,TV,Satellite,Availability,None,,None,Kent,WA,98031,"WA 98031-1524
+(47.40561, -122.196448)"
+1375160,,,TV,Cable,Availability,None,,None,Columbia,CA,95310,"CA 95310
+(38.048041, -120.395037)"
+1375162,,,Internet,DSL,Availability,None,,None,Jacksonville,FL,32217,"FL 32217
+(30.239948, -81.618659)"
+1375163,,,TV,Cable,Billing,,,,Corryton,TN,37721,"TN 37721
+(36.130018, -83.81332)"
+1375164,,,Internet,Cable,Speed,None,,None,Minonk,IL,61760,"IL 61760
+(40.884977, -89.033098)"
+1375167,,,TV,Satellite,Interference,None,,None,Cape Coral,FL,33909,"FL 33909
+(26.693105, -81.94614)"
+1375168,,,TV,Broadcast,Interference,None,,None,New Market,TN,37820,"TN 37820
+(36.084495, -83.564577)"
+1375169,,,TV,Satellite,Availability,None,,None,Latrobe,PA,15650,"PA 15650
+(40.284408, -79.393626)"
